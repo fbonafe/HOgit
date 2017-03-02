@@ -1,4 +1,5 @@
 # HOgit - ejercicio del WTPC17
+### Un segundo commit
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
