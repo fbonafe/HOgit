@@ -1,4 +1,4 @@
-# HOgit
+# HOgit - ejercicio del WTPC17
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
